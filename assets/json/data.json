@@ -1,0 +1,200 @@
+[
+        {
+            "id": "1",
+            "nombre": "Cuadro set Pastel", 
+            "precio": 2700, 
+            "stock" : 11,
+            "personalizar": "personalizable",
+            "imagen": "https://i.ibb.co/GxBM446/cuadro-Set-pastel-Lovers.png",
+            "detalle": "Este combo incluye 6 cuadros: 2 de 30x40cm, 2 de 20x30cm y 2 de 15x21cm. ¡Se entrega listo para colgar! Láminas montadas en bastidores de 9mm"
+        },
+        {
+            "id": "2",
+            "nombre": "Cuadro set Aqua Home", 
+            "precio": 2400, 
+            "stock" : 9,
+            "personalizar": "personalizable",
+            "imagen": "https://i.ibb.co/b3Z25zX/cuadro-Set-aqua-Home.png",
+            "detalle": "El combo incluye 2 cuadros 30x40cm, 2 20x30cm y 2 15x21cm. ¡Ideal para decorar cualquier ambiente! Láminas montadas sobre bastidores de 9mm de profundidad"
+        },
+        {
+            "id": "3",
+            "nombre": "Cuadro set Travel Black", 
+            "precio": 2850, 
+            "stock" : 8,
+            "personalizar": "personalizable",
+            "imagen": "https://i.ibb.co/p3HY4dn/cuadro-Set-travel-Black.png",
+            "detalle": "El combo incluye 2 cuadros 30x40cm, 2 20x30cm y 2 15x21cm. ¡Ideal para decorar cualquier ambiente! Láminas montadas sobre bastidores de 9mm de profundidad"
+        },
+        {
+            "id": "4",
+            "nombre": "Cuadro Lunas", 
+            "precio": 250, 
+            "stock" : 9,
+            "personalizar": "No personalizable",
+            "imagen": "https://i.ibb.co/b3Z25zX/cuadro-Set-aqua-Home.png",
+            "detalle": "El combo incluye 1 cuadro 30x40cm ¡Ideal para decorar cualquier ambiente! Láminas montadas sobre bastidores de 9mm de profundidad"
+        },
+        {
+            "id": "5",
+            "nombre": "Cuadro Dreams", 
+            "precio": 250, 
+            "stock" : 9,
+            "personalizar": "No personalizable",
+            "imagen": "https://i.ibb.co/nC4FbK3/cuadro-Dreams.png",
+            "detalle": "Láminas montadas en bastidores de 9mm. Ideal para cualquier rincón del hogar"
+        },
+        {
+            "id": "6",
+            "nombre": "Cuadro Mapas", 
+            "precio": 400, 
+            "stock" : 9,
+            "personalizar": "No personalizable",
+            "imagen": "https://i.ibb.co/Cb0sBnf/cuadro-Mapas-Ilustracion.png",
+            "detalle": "Láminas montadas en bastidores de 9mm. Ideal para cualquier rincón del hogar"
+        },
+        {
+            "id": "7",
+            "nombre": "Díptico Rainbow", 
+            "precio": 840, 
+            "stock" : 9,
+            "personalizar": "personalizable",
+            "imagen": "https://i.ibb.co/Wpj7JH7/cuadro-Dipticos-rainbow.png",
+            "detalle": "Láminas montadas en bastidores de 9mm. Ideal para cualquier rincón del hogar"
+        },
+        {
+            "id": "8",
+            "nombre": "Tríptico Geométrico", 
+            "precio": 750, 
+            "stock" : 25,
+            "personalizar": "personalizable",
+            "imagen": "https://i.ibb.co/XYPNgJf/cuadro-Tripticos-Geometrico.png",
+            "detalle": "Láminas montadas en bastidores de 9mm. Ideal para cualquier rincón del hogar"
+        },
+        {
+            "id": "9",
+            "nombre": "Tríptico Planisferio", 
+            "precio": 1200, 
+            "stock" : 19,
+            "personalizar": "No personalizable",
+            "imagen": "https://i.ibb.co/qjQB5jt/cuadro-Tripticos-Planisferio.png",
+            "detalle": "Láminas montadas en bastidores de 9mm. Ideal para cualquier rincón del hogar"
+        },
+        {
+            "id": "10",
+            "nombre": "Tríptico Ríe Vive Ama", 
+            "precio": 1200, 
+            "stock" : 7,
+            "personalizar": "personalizable",
+            "imagen": "https://i.ibb.co/p4bjcpT/cuadro-Vive-Rie-Ama.png",
+            "detalle": "Láminas montadas en bastidores de 9mm. Ideal para cualquier rincón del hogar"
+        },
+        {
+            "id": "11",
+            "nombre": "Tríptico Heart", 
+            "precio": 1200, 
+            "stock" : 4,
+            "personalizar": "personalizable",
+            "imagen": "https://i.ibb.co/521JBdr/cuadro-Tripticos-heart.png",
+            "detalle": "Láminas montadas en bastidores de 9mm. Ideal para cualquier rincón del hogar"
+        },
+        {
+            "id": "12",
+            "nombre": "Set Home", 
+            "precio": 850, 
+            "stock" : 0,
+            "personalizar": "No personalizable",
+            "imagen": "https://i.ibb.co/FzjLtJQ/cuadro-home.png",
+            "detalle": "Láminas montadas en bastidores de 9mm. Ideal para cualquier rincón del hogar"
+        },
+        {
+            "id": "13",
+            "nombre": "Set Infantil Dinosaurios", 
+            "precio": 950, 
+            "stock" : 5,
+            "personalizar": "No personalizable",
+            "imagen": "https://i.ibb.co/5vGWQ0F/cuadro-Set-Infantil-Dinosaurios.png",
+            "detalle": "Láminas montadas en bastidores de 9mm. Ideal para cualquier rincón del hogar",
+            "tipo": "infantil"
+        },
+        {
+            "id": "14",
+            "nombre": "Cuadro Infantil León", 
+            "precio": 550, 
+            "stock" : 20,
+            "personalizar": "No personalizable",
+            "imagen": "https://i.ibb.co/v35dZqT/cuadro-infantil-leon.png",
+            "detalle": "Láminas montadas en bastidores de 9mm. Ideal para cualquier rincón del hogar",
+            "tipo": "infantil"
+        },
+        {
+            "id": "15",
+            "nombre": "Cuadro Infantil Nacimiento", 
+            "precio": 350, 
+            "stock" : 15,
+            "personalizar": "personalizable",
+            "imagen": "https://i.ibb.co/cyxWVPN/cuadro-infantil-oso.png",
+            "detalle": "Láminas montadas en bastidores de 9mm. Ideal para cualquier rincón del hogar",
+            "tipo": "infantil"
+        },
+        {
+            "id": "16",
+            "nombre": "Tríptico Infantil Principito", 
+            "precio": 1200, 
+            "stock" : 9,
+            "personalizar": "No personalizable",
+            "imagen": "https://i.ibb.co/g9hdJsQ/cuadro-infantil-principito.png",
+            "detalle": "Láminas montadas en bastidores de 9mm. Ideal para cualquier rincón del hogar",
+            "tipo": "infantil"
+        },
+        {
+            "id": "17",
+            "nombre": "Set Infantil Animales", 
+            "precio": 750, 
+            "stock" : 15,
+            "personalizar": "personalizable",
+            "imagen": "https://i.ibb.co/TTg6GB9/cuadro-infantil-set-animales.png",
+            "detalle": "Láminas montadas en bastidores de 9mm. Ideal para cualquier rincón del hogar",
+            "tipo": "infantil"
+        },
+        {
+            "id": "18",
+            "nombre": "Tríptico Infantil B&W", 
+            "precio": 750, 
+            "stock" : 15,
+            "personalizar": "personalizable",
+            "imagen": "https://i.ibb.co/yXY0CLY/cuadro-infantil-triptico-bn.png",
+            "detalle": "Láminas montadas en bastidores de 9mm. Ideal para cualquier rincón del hogar",
+            "tipo": "infantil"
+        },
+        {
+            "id": "19",
+            "nombre": "Tríptico Infantil Selva", 
+            "precio": 750, 
+            "stock" : 15,
+            "personalizar": "personalizable",
+            "imagen": "https://i.ibb.co/Vgth7sC/cuadro-infantil-triptico-ciervo.png",
+            "detalle": "Láminas montadas en bastidores de 9mm. Ideal para cualquier rincón del hogar",
+            "tipo": "infantil"
+        },
+        {
+            "id": "20",
+            "nombre": "Tríptico Infantil Colores", 
+            "precio": 750, 
+            "stock" : 15,
+            "personalizar": "personalizable",
+            "imagen": "https://i.ibb.co/MS3YYN5/cuadro-infantil-triptico-colors.png",
+            "detalle": "Láminas montadas en bastidores de 9mm. Ideal para cualquier rincón del hogar",
+            "tipo": "infantil"
+        },
+        {
+            "id": "21",
+            "nombre": "Tríptico Infantil Selva II", 
+            "precio": 750, 
+            "stock" : 15,
+            "personalizar": "personalizable",
+            "imagen": "https://i.ibb.co/tP86mGr/cuadro-infantil-triptico-selva.png",
+            "detalle": "Láminas montadas en bastidores de 9mm. Ideal para cualquier rincón del hogar",
+            "tipo": "infantil"
+        }
+]
