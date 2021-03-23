@@ -1,0 +1,211 @@
+#detalle-contacto {
+    height: 200px;
+    width: 100%;
+    margin-top: 330%;
+    background-color: #ffe4da;
+    margin-bottom: -50%;
+
+}
+
+
+#carrito button{
+    margin-top: 10%;
+    background-color: rgb(233, 233, 233);
+    color: black;
+    font-family: 'Quicksand', Georgia, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#carrito button:hover{
+    background-color: #ffe4da;
+}
+
+#productos{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: -12%;
+    margin-left: 20%;
+    width: 60em;
+    height: 60em;
+    padding-bottom: 10px;
+    
+}
+
+
+
+#barraLateral{
+    width: 17%;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+#barraLateral li a{
+    color:black;
+}
+#barraLateral span{
+    color:white;
+}
+
+#detallesP{
+    border: none;
+    height: 40px;
+    text-align: left;
+}
+
+
+
+      @media screen and (min-width: 900px) and (max-width: 1700px) {
+        #productos{
+            display: flex;
+            flex-wrap: wrap;
+            margin-top: 2%;
+            margin-left: 17%;
+            width: 50em;
+            height: 30em;
+            padding-bottom: 10px;
+      
+        }
+        #productos img {
+            height: 300px;
+        }   
+
+        #barraLateral{
+            width: 15%;
+            height: 10px;
+            margin-top: 15px;
+        }
+
+        #detalle-contacto {
+            height: 200px;
+            width: 100%;
+            margin-top: 500%;
+            background-color: #ffe4da;
+            margin-bottom: -50%;
+        
+        }
+
+    }
+
+    @media screen and (min-width: 780px) and (max-width: 900px){
+        #productos{
+            margin-top: 25%;
+            margin-left: 1%;
+            width: 50em;
+            height: 30em;
+            padding-bottom: 10px;
+        }
+
+            #productos img {
+                height: 280px;
+            }  
+            
+        #detalle-contacto {
+            height: 200px;
+            width: 100%;
+            margin-top: 550%;
+            background-color: #ffe4da;
+            margin-bottom: -15%; }
+
+            #barraLateral{
+                width: 60%;
+                height: 10px;
+                margin-top: 15px;
+                margin-left: 10%;
+            }
+
+    }
+
+    @media screen and (min-width: 476px) and (max-width: 780px) {
+        #productos{
+            margin-top: 40%;
+            margin-left: 10%;
+            width: 410px;
+            height: 10em;
+            padding-bottom: 10px;}
+         #productos img {
+             height: 380px;
+             width: 380px;
+         }   
+            #carrito button{
+                width: 400%;
+                height: 380px;
+            }
+
+            #detallesP{
+                width: 40%;
+                /* height: 100px; */
+            }
+
+            #detalle-contacto {
+                height: 200px;
+                width: 100%;
+                margin-top: 1010em;
+                background-color: #ffe4da;
+                margin-bottom: -20%; }
+        
+        #detalle-contacto li{
+            padding-right: 10px;
+            margin-bottom: -105px;
+        }
+        
+        #detalle-contacto li i{
+          justify-content: center;
+          align-content: center; 
+          margin-bottom: -105px;
+        }
+
+        #barraLateral{
+            width: 60%;
+            height: 10px;
+            margin-top: 15px;
+            margin-left: 10%;
+        }
+    }      
+      @media screen and (min-width: 310px) and (max-width: 476px) {
+        #productos{
+            margin-top: 75%;
+            margin-left: 5%;
+            width: 410px;
+            height: 10em;
+            padding-bottom: 10px;}
+
+            #productos img {
+                height: 330px;
+            }  
+
+            #carrito button{
+                width: 410px;
+            }
+
+            #detallesP{
+                width: 410px;
+
+            }
+            
+        #detalle-contacto {
+            height: 200px;
+            width: 100%;
+            margin-top: 900em;
+            background-color: #ffe4da;
+            margin-bottom: -5%; }   
+    
+        
+        #detalle-contacto li{
+            padding-right: 10px;
+            margin-bottom: -105px;
+        }
+        
+        #detalle-contacto li i{
+          justify-content: center;
+          align-content: center; 
+          margin-bottom: -105px;
+        }
+
+        #barraLateral{
+            width: 100%;
+            height: 10px;
+            margin-top: 20px;
+        }
+
+    }

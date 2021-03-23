@@ -1,0 +1,310 @@
+body{
+    margin: 0;
+    background-color: white;
+}
+
+#barraSuperior {
+    list-style: none;
+    text-decoration: none;
+    height: 140px;
+    width: 100%;
+    background-color: #ffe4da;
+    z-index: 1000;
+}
+#menu{
+  font-family: 'Quicksand', Georgia, sans-serif;
+  font-size: 20px;
+  margin-top:-60px;
+  list-style: none;
+  height: 85px;
+  justify-content: end;
+  text-decoration: none;
+  color: #202020
+  
+}
+
+
+
+
+#logo {
+    margin-top: 20px;
+    height: 100px;
+    width: 225px;
+    margin-left: 5%;
+}
+
+
+#diseños h1 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+    margin-top: 25px;
+    margin-left: 40%;
+}
+  
+  #listaProductos {
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center; 
+    margin-left: -15px;
+}
+  
+.imgCuadricula {
+    width: 300px;
+    height: 300px;
+    margin: 25px 20px 25px 25px;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 8px 2px #e0e0e0;
+    -moz-box-shadow: 4px 4px 8px 2px #e0e0e0;
+    box-shadow: 4px 4px 8px 2px #e0e0e0; }
+  
+.imgCuadricula:hover {
+    -webkit-box-shadow: -1px 1px 22px -1px #747474;
+    -moz-box-shadow: -1px 1px 22px -1px #747474;
+    box-shadow: -1px 1px 22px -1px #747474; }
+
+/* 
+
+
+    @media screen and (min-width: 1000px) and (max-width: 1400px) {
+        #barraSuperior {
+          width: 100%;
+          margin-left: -15px; } }
+      
+      @media screen and (min-width: 780px) and (max-width: 1000px) {
+        #barraSuperior {
+          width: 100%;
+          height: 125px;
+          margin-left: -15px; }
+        #menu {
+          margin-left: 50%;
+          background-color: white; }
+        .nav-link {
+          margin-left: 10px;
+          border-bottom: 1px #d3167e !important;
+          width: 100%; }
+        .nav-link:hover {
+          background-color: #e0e0e0 !important;
+          width: 100%;
+          margin-left: -1px; }
+        .logoFlex {
+          width: 95px;
+          height: 80px;
+          margin-top: -80px; } }
+      
+      @media screen and (min-width: 476px) and (max-width: 780px) {
+        #barraSuperior {
+          width: 100%;
+          height: 125px;
+          margin-left: -15px; }
+        #menu {
+          margin-left: 50%;
+          background-color: white; }
+        .nav-link {
+          margin-left: 10px;
+          border-bottom: 1px #d3167e !important;
+          width: 100%; }
+        .nav-link:hover {
+          background-color: #e0e0e0 !important;
+          width: 100%;
+          margin-left: -1px; }
+        .logoFlex {
+          width: 95px;
+          height: 80px; } }
+      
+      @media screen and (min-width: 310px) and (max-width: 476px) {
+        #barraSuperior {
+          width: 100%;
+          height: 125px;
+          margin-left: -20px; }
+        #menu {
+          margin-left: 50%;
+          background-color: white; }
+        .nav-link {
+          margin-left: 10px;
+          border-bottom: 1px #d3167e !important;
+          width: 100%; }
+        .nav-link:hover {
+          background-color: #e0e0e0 !important;
+          width: 100%;
+          margin-left: -1px; }
+        .logoFlex {
+          width: 95px;
+          height: 80px;
+          margin-top: 1px; } } */
+      
+
+#tienda button{
+    margin-top: 2%;
+    margin-left: 50px;
+    background-color: rgb(233, 233, 233);
+    color: rgb(17, 17, 17);
+    font-family: 'Quicksand', Georgia, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    justify-content: center;
+}
+
+#tienda button:hover{
+    background-color: #ffe4da;
+}
+
+
+
+
+#detalle-contacto {
+    height: 200px;
+    width: 100%;
+    margin-top: 10%;
+    background-color: #ffe4da;
+    margin-bottom: -50%;
+
+}
+
+#detalle-contacto li{
+    margin-top: 70px;
+    padding-right: 40px;
+}
+
+#detalle-contacto li i{
+
+  justify-content: center;
+  align-content: center; 
+}
+
+#ig #fb #cart {
+    color: black !important;
+    height: 20px;
+    width: 20px;
+    align-content: center; 
+    text-decoration: none;
+}
+
+#safe #wapp #truck {
+    color: black !important;
+    height: 30px;
+    width: 30px;
+    margin-left: 350px;
+    align-content: center;
+    text-decoration: none;
+}
+
+
+#carritoDesglosadoP{
+  justify-content: center;
+  margin-left: 300px;
+  /* padding: 15px 15px 15px 15px; */
+  
+}
+
+#totales{
+  margin-left: 300px;
+  font-weight: bold;
+}
+
+#iniciarCompra {
+  margin-left: 600px;
+  background-color: rgb(184, 10, 10);
+}
+
+#seguirComprando {
+  margin-left: 600px;
+}
+
+
+@media screen and (min-width: 1000) and (max-width: 1800px) {
+  #carritoDesglosadoP{
+    justify-content: center;
+    margin-left: 300px;
+    /* padding: 15px 15px 15px 15px; */
+  }
+
+  #totales{
+    margin-left: 300px;
+    font-weight: bold;
+  }
+  
+  #iniciarCompra {
+    margin-left: 600px;
+    background-color: rgb(184, 10, 10);
+  }
+  
+  #seguirComprando {
+    margin-left: 600px;
+  }
+}
+
+
+@media screen and (min-width: 900px) and (max-width: 1000px) {
+  #carritoDesglosadoP{
+    margin-left: 40px;
+  }
+
+  #totales{
+    margin-left: 40px;
+    font-weight: bold;
+  }
+  
+  #iniciarCompra {
+    margin-left: 300px;
+    background-color: rgb(184, 10, 10);
+  }
+  
+  #seguirComprando {
+    margin-left: 300px;
+  }
+
+}
+
+@media screen and (min-width: 476px) and (max-width: 899px) {
+  #carritoDesglosadoP{
+    margin-left: 10px;
+  }
+  #totales{
+    margin-left: 10px;
+    font-weight: bold;
+  }
+
+  .nameTable{
+    display: none;
+  }
+
+  .listItems{
+    display: none;
+  }
+  
+  #iniciarCompra {
+    margin-left: 200px;
+    background-color: rgb(184, 10, 10);
+  }
+  
+  #seguirComprando {
+    margin-left: 200px;
+  }
+}      
+@media screen and (min-width: 310px) and (max-width: 476px) {
+  #carritoDesglosadoP{
+    margin-left: 10px;
+  }
+  #totales{
+    margin-left: 10px;
+    font-weight: bold;
+  }
+  .nameTable{
+    display: none;
+  }
+
+  .listItems{
+    display: none;
+  }
+  
+  #iniciarCompra {
+    margin-left: 100px;
+    background-color: rgb(184, 10, 10);
+  }
+  
+  #seguirComprando {
+    margin-left: 100px;
+  }
+}
